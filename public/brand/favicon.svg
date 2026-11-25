@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="bramwell-favicon-title">
+  <title id="bramwell-favicon-title">Bramwell Clinic icon</title>
+  <rect x="0" y="0" width="256" height="256" rx="56" fill="#102A24"/>
+  <g id="symbol" transform="translate(42 38) scale(0.7)">
+    <path fill="#F7FAF8" d="M 56 24 H 92 V 232 H 56 A 24 24 0 0 1 32 208 V 48 A 24 24 0 0 1 56 24 Z"/>
+    <path fill="#8AD6B4" d="M 112 24 H 163 A 45 45 0 0 1 163 114 H 112 Z"/>
+    <path fill="#F7FAF8" d="M 112 134 H 175 A 49 49 0 0 1 175 232 H 112 Z"/>
+  </g>
+</svg>
