@@ -6,6 +6,25 @@ A responsive, accessible healthcare landing page for **Bramwell Clinic**, a fict
 
 ---
 
+## Screenshots
+
+### Editorial Split Hero & Accepted Insurers
+![Bramwell Clinic Split Hero and Insurer Strip](./docs/screenshots/hero.png)
+
+### Interactive 50-Minute Wait vs. Bramwell Comparison
+![Interactive wait-time comparison timeline bars](./docs/screenshots/wait-comparison.png)
+
+### Interactive Care Areas Bento Grid & Clinical Detail Sheet
+![Care Areas Bento Grid synced with clinical detail sheet](./docs/screenshots/care-areas.png)
+
+### Portland Clinicians & Real-Time Availability
+![Bramwell Clinic clinicians with availability badges](./docs/screenshots/clinicians.png)
+
+### Accessible First-Visit Booking Flow
+![Accessible first-visit booking form](./docs/screenshots/booking.png)
+
+---
+
 ## Overview
 
 Bramwell Clinic was designed to feel calm, human-centered, and immediately scannable rather than clinical or generic. Every section prioritizes real patient questions: how long you wait, how much time you get with your doctor, what labs are drawn on site, which insurers are accepted, and what self-pay visits cost.
