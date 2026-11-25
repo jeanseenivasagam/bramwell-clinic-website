@@ -2,7 +2,7 @@
 
 A responsive, accessible healthcare landing page for **Bramwell Clinic**, a fictional independent primary care and in-house diagnostics practice in Portland, Oregon. Built as part of a multi-industry web design and front-end engineering portfolio.
 
-**Live Demo:** https://bramwell-clinic-portland.netlify.app
+**Live Demo:** https://bramwell-clinic.netlify.app
 
 ---
 
